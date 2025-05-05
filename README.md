@@ -74,8 +74,7 @@ IAM, KMS, Security Hub, Vault, TCP/IP, VPN, Load Balancing, Compliance (SOC2, GD
 - Enhanced observability using AWS CloudWatch, New Relic reduced incident response by **30%**  
 - Improved security with AWS IAM, KMS, and automated backup strategies  
 - Reduced cloud spend by **20%** with proactive cost optimization  
-- Automated microservices deployment using AWS Lambda & API Gateway  
-- Led incident response and RCA across teams boosting customer satisfaction
+- Collaborated with teams to resolve incident reports boosting customer satisfaction
 
 ---
 
