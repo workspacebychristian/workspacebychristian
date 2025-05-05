@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Christian Okwesili</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure & Automation Specialist</h3>
+<h3 align="center">DevOps Engineer |Cloud Infrastructure & Automation Specialist</h3>
 
 <p align="center">
   <a href="mailto:christianokwesili@gmail.com">Email</a> •
