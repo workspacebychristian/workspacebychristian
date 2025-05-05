@@ -9,10 +9,9 @@
 
 ---
 
-![DevOps](https://img.shields.io/badge/DevOps-Engineer-blueviolet?style=for-the-badge&logo=dev.to)
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Provider-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-623CE4?style=for-the-badge&logo=terraform)
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions_&_Jenkins-blue?style=for-the-badge&logo=github-actions)
 
