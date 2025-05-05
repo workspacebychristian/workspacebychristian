@@ -25,12 +25,13 @@ DevOps Engineer with 4+ years of experience building and automating cloud infras
 - Deploying scalable Kubernetes clusters
 - Securing and optimizing AWS cloud environments
 - Monitoring systems with Grafana, Prometheus & CloudWatch
+-  Driving cloud cost optimization with right-sizing, auto-scaling, and efficient resource allocation
 
 ---
 
 ## **Certification**
 
-- **AWS Certified Solutions Architect – Associate** *2024* ![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_2024-orange?style=for-the-badge&logo=amazon-aws)
+![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_2024-orange?style=for-the-badge&logo=amazon-aws)
 
 ---
 
