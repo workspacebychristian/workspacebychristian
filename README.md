@@ -10,7 +10,6 @@
 ---
 
 ![DevOps](https://img.shields.io/badge/DevOps-Engineer-blueviolet?style=for-the-badge&logo=dev.to)
-![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_2024-orange?style=for-the-badge&logo=amazon-aws)
 ![Terraform](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-623CE4?style=for-the-badge&logo=terraform)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions_&_Jenkins-blue?style=for-the-badge&logo=github-actions)
@@ -31,7 +30,7 @@ DevOps Engineer with 4+ years of experience building and automating cloud infras
 
 ## **Certification**
 
-- **AWS Certified Solutions Architect – Associate** *(2024)*
+- **AWS Certified Solutions Architect – Associate** *2024* ![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_2024-orange?style=for-the-badge&logo=amazon-aws)
 
 ---
 
@@ -87,22 +86,18 @@ IAM, KMS, Security Hub, Vault, TCP/IP, VPN, Load Balancing, Compliance (SOC2, GD
 
 ---
 
-## **Featured Projects**
+## **Projects**
 
-- [**AWS Infrastructure as Code with Terraform**](#)  
-  *Modular Terraform setup for VPC, EC2, IAM, S3*
+- [**AWS Infrastructure as Code with Terraform**](#) 
 
-- [**CI/CD with GitHub Actions**](#)  
-  *Reusable pipeline for Dockerized apps with staging & prod environments*
-
+- [**Designing Resilient CI/CD Pipeline**](#)  
+  
 - [**Kubernetes Monitoring Stack**](#)  
-  *Prometheus + Grafana setup with custom alerts & dashboards*
 
 ---
 
 ## **Let's Connect**
 
 I’m always open to collaboration, new roles, and building cool stuff in the cloud.  
-Reach out on [LinkedIn](https://linkedin.com/in/christianokwesili) or [email me](mailto:christianokwesili@gmail.com) — let’s connect!
 
 ---
