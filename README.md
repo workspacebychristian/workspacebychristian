@@ -1,94 +1,110 @@
-# Hi, I'm Christian Okwesili  
-**DevOps Engineer | Cloud Infrastructure & Automation Specialist**  
-[Email](mailto:christianokwesili@gmail.com)| [LinkedIn](https://www.linkedin.com/in/christianokwesili) | United Kingdom  
+<h1 align="center">Hi, I'm Christian Okwesili</h1>
+<h3 align="center">DevOps Engineer | Cloud Infrastructure & Automation Specialist</h3>
+
+<p align="center">
+  <a href="mailto:christianokwesili@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/christianokwesili">LinkedIn</a> •
+  Rotherham, United Kingdom 
+</p>
 
 ---
 
-## **Professional Summary**  
-DevOps Engineer with 4 years of experience specializing in cloud infrastructure, automation, and CI/CD pipeline management. Proficient in Infrastructure as Code (Terraform, Ansible), containerization (Docker, Kubernetes), and cloud platform migration, with hands-on expertise in AWS. Adept at enhancing deployment processes, implementing monitoring tools (Prometheus, Grafana), and ensuring system reliability, scalability, and security in fast-paced global environments.
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-blueviolet?style=for-the-badge&logo=dev.to)
+![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_2024-orange?style=for-the-badge&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-623CE4?style=for-the-badge&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions_&_Jenkins-blue?style=for-the-badge&logo=github-actions)
 
 ---
 
-## **Certification**  
-**AWS Certified Solutions Architect – Associate**, 2024  
+## **About Me**
+
+DevOps Engineer with 4+ years of experience building and automating cloud infrastructure on AWS. I specialize in:
+
+- Designing resilient CI/CD pipelines
+- Automating infrastructure with Terraform & Ansible
+- Deploying scalable Kubernetes clusters
+- Securing and optimizing AWS cloud environments
+- Monitoring systems with Grafana, Prometheus & CloudWatch
+
+I’m passionate about simplifying complexity and building high-availability solutions that *just work*.
+
+---
+
+## **Certification**
+
+- **AWS Certified Solutions Architect – Associate** *(2024)*
 
 ---
 
 ## **Technical Skills**
 
-### DevOps & Automation Tools
-- **IaC**: Terraform, CloudFormation, Azure ARM template  
-- **Configuration Management**: Ansible, Puppet, Chef  
-- **CI/CD**: Jenkins, GitHub Actions, GitLab, Azure DevOps, CodePipeline  
-- **Automation**: PowerShell, Python, Bash, Ansible, Chef, Puppet  
-- **Orchestration**: Kubernetes, Docker, OpenShift, EKS, ECS, Fargate, Helm, Argo CD, Istio, Linkerd  
-
 ### Cloud Platforms  
-- **AWS**: EC2, S3, RDS, EKS, Lambda, API Gateway, Route 53, CloudFront, IAM, CloudTrail, KMS  
-- **Azure**: AKS, DevOps, Virtual Networks, Functions, Blob Storage, Synapse, Site Recovery  
-- **GCP**: GKE, Cloud Functions, BigQuery, Pub/Sub, Cloud SQL, Cloud Storage  
-- **Hybrid/Multi-Cloud**: Terraform Cloud, CloudHealth, Vault  
+**AWS**: EC2, S3, RDS, Lambda, EKS, API Gateway, CloudFront, IAM, KMS, CloudWatch  
+**Multi-Cloud**: Terraform Cloud, Vault
 
-### Databases & Data Stores  
-- **NoSQL**: MongoDB, DynamoDB, Couchbase, Cassandra  
-- **Relational**: MySQL, PostgreSQL, Oracle, Aurora  
-- **Caching**: Redis, Elasticache, Memcached  
+### IaC & Automation  
+**IaC**: Terraform, CloudFormation  
+**Config Management**: Ansible, Puppet, Chef  
+**Scripting**: Python, Bash, PowerShell, Go  
+**CI/CD**: Jenkins, GitHub Actions, GitLab, CodePipeline
+
+### Containers & Orchestration  
+Docker, Kubernetes, EKS, Fargate, Helm, Istio, Argo CD, Linkerd
 
 ### Monitoring & Logging  
-- **Tools**: Datadog, Prometheus, Grafana, ELK Stack, Splunk, CloudWatch, New Relic, Papertrail  
-- **Disaster Recovery**: AWS Backup, Azure Site Recovery, Kubernetes DR  
-- **SLOs/SLIs**: Proactive monitoring, alerting  
+Prometheus, Grafana, CloudWatch, ELK Stack, New Relic, Splunk, Papertrail
 
-### Cloud Cost Optimization  
-- FinOps, CloudHealth, AWS Trusted Advisor  
+### Databases  
+**Relational**: MySQL, PostgreSQL, Aurora, Oracle  
+**NoSQL**: DynamoDB, MongoDB, Cassandra  
+**Caching**: Redis, ElastiCache, Memcached
 
-### Networking & Security  
-- **Networking**: TCP/IP, DNS, VPN, Load Balancers, Subnets, VPC Peering  
-- **Security**: IAM, KMS, Security Hub, CloudTrail, AquaSec, Vault, Compliance (SOC2, GDPR)  
-
-### Programming & Scripting  
-- Python, Go, Bash, PowerShell, Ruby, Java  
-- CI/CD scripting, workflow optimization  
-
-### Methodologies & Practices  
-- Agile, Scrum, Kanban, SAFe, MLOps, DevSecOps, CI/CD  
-- Root Cause Analysis, Incident Management, Post-Mortem Reporting  
+### Security & Networking  
+IAM, KMS, Security Hub, Vault, TCP/IP, VPN, Load Balancing, Compliance (SOC2, GDPR)
 
 ---
 
 ## **Professional Experience**
 
-### **EON NEXT** — *DevOps Engineer*  
-**Aug 2021 – Present**
+### **DevOps Engineer – EON NEXT**  
+*Aug 2021 – Present*
 
-- Implemented Blue-Green deployments using AWS Elastic Beanstalk and EC2, achieving 99.9% availability  
-- Built CI/CD pipelines with Jenkins and GitHub Actions, cutting deployment time by 50%  
-- Provisioned infrastructure using Terraform and Ansible, improving scalability and reducing errors  
-- Leveraged Docker and Kubernetes for container orchestration, reducing downtime by 40%  
-- Integrated Ansible in CI/CD for automation, reducing manual errors by 30%  
-- Enhanced monitoring with AWS CloudWatch, New Relic, improving observability and response time  
-- Strengthened cloud security with IAM policies and AWS KMS, reducing incidents by 15%  
-- Reduced costs by 20% through optimization strategies  
-- Automated microservices deployment via AWS Lambda & API Gateway, improving reliability  
-- Led cross-team incident resolution, enhancing customer satisfaction  
+- Built Blue-Green deployments using AWS Elastic Beanstalk, achieving **99.9% availability**  
+- Developed CI/CD pipelines (Jenkins & GitHub Actions), cutting deployment time by **50%**  
+- Automated infrastructure with Terraform & Ansible, reducing deployment errors by **25%**  
+- Orchestrated Kubernetes & Docker containers on AWS, reducing downtime by **40%**  
+- Enhanced observability using AWS CloudWatch, New Relic — reduced incident response by **30%**  
+- Improved security with AWS IAM, KMS, and automated backup strategies  
+- Reduced cloud spend by **20%** with proactive cost optimization  
+- Automated microservices deployment using AWS Lambda & API Gateway  
+- Led incident response and RCA across teams — boosting customer satisfaction
 
 ---
 
-## **Education**  
-- **MSc International Business** – University of Hertfordshire  
-- **BSc Computer Science** – Ebonyi State University  
+## **Education**
 
-<!--
-**workspacebychristian/workspacebychristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **MSc International Business** – *University of Hertfordshire*  
+- **BSc Computer Science** – *Ebonyi State University*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Featured Projects**
+
+- [**AWS Infrastructure as Code with Terraform**](#)  
+  *Modular Terraform setup for VPC, EC2, IAM, S3*
+
+- [**CI/CD with GitHub Actions**](#)  
+  *Reusable pipeline for Dockerized apps with staging & prod environments*
+
+- [**Kubernetes Monitoring Stack**](#)  
+  *Prometheus + Grafana setup with custom alerts & dashboards*
+
+---
+
+## **Let's Connect**
+
+I’m always open to collaboration, new roles, and building cool stuff in the cloud.  
+Reach out on [LinkedIn](https://linkedin.com/in/christianokwesili) or [email me](mailto:christianokwesili@gmail.com) — let’s connect!
+
+---
