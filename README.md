@@ -37,8 +37,7 @@ DevOps Engineer with 4+ years of experience building and automating cloud infras
 ## **Technical Skills**
 
 ### Cloud Platforms  
-**AWS**: EC2, S3, RDS, Lambda, EKS, API Gateway, CloudFront, IAM, KMS, CloudWatch  
-**Multi-Cloud**: Terraform Cloud, Vault
+**AWS**: EC2, S3, RDS, Lambda, EKS, ECS, CloudFront, IAM, KMS, Secret Manager, CloudWatch, Cloud Trail, Cost Explorer, Trusted Advisor
 
 ### IaC & Automation  
 **IaC**: Terraform, CloudFormation  
