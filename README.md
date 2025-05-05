@@ -27,8 +27,6 @@ DevOps Engineer with 4+ years of experience building and automating cloud infras
 - Securing and optimizing AWS cloud environments
 - Monitoring systems with Grafana, Prometheus & CloudWatch
 
-I’m passionate about simplifying complexity and building high-availability solutions that *just work*.
-
 ---
 
 ## **Certification**
@@ -74,11 +72,11 @@ IAM, KMS, Security Hub, Vault, TCP/IP, VPN, Load Balancing, Compliance (SOC2, GD
 - Developed CI/CD pipelines (Jenkins & GitHub Actions), cutting deployment time by **50%**  
 - Automated infrastructure with Terraform & Ansible, reducing deployment errors by **25%**  
 - Orchestrated Kubernetes & Docker containers on AWS, reducing downtime by **40%**  
-- Enhanced observability using AWS CloudWatch, New Relic — reduced incident response by **30%**  
+- Enhanced observability using AWS CloudWatch, New Relic reduced incident response by **30%**  
 - Improved security with AWS IAM, KMS, and automated backup strategies  
 - Reduced cloud spend by **20%** with proactive cost optimization  
 - Automated microservices deployment using AWS Lambda & API Gateway  
-- Led incident response and RCA across teams — boosting customer satisfaction
+- Led incident response and RCA across teams boosting customer satisfaction
 
 ---
 
