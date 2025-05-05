@@ -30,8 +30,7 @@ DevOps Engineer with 4+ years of experience building and automating cloud infras
 ---
 
 ## **Certification**
-
-![AWS Certified](https://img.shields.io/badge/AWS-Solutions_Architect_2024-orange?style=for-the-badge&logo=amazon-aws)
+![AWS Certified](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Associate-2024-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
