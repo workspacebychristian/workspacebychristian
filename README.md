@@ -2,8 +2,13 @@
 <h3 align="center">DevOps Engineer | Cloud Infrastructure & Automation Specialist</h3>
 
 <p align="center">
-  <a href="mailto:christianokwesili@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/christianokwesili">LinkedIn</a> •
+  <a href="mailto:christianokwesili@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="16" style="vertical-align: middle;"/> Email
+</a> •
+<a href="https://www.linkedin.com/in/christianokwesili">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="16" style="vertical-align: middle;"/> LinkedIn
+</a>
+
   Rotherham, United Kingdom 
 </p>
 
