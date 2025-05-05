@@ -93,11 +93,4 @@ IAM, KMS, Security Hub, Vault, TCP/IP, VPN, Load Balancing, Compliance (SOC2, GD
 - [**Designing Resilient CI/CD Pipeline**](#)  
   
 - [**Kubernetes Monitoring Stack**](#)  
-
----
-
-## **Let's Connect**
-
-I’m always open to collaboration, new roles, and building cool stuff in the cloud.  
-
 ---
